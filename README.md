@@ -28,7 +28,8 @@ git clone https://github.com/schoulten/coordenadas_escolas_br.git
 2. Abrir o arquivo `webscraping.ipynb` (recomendado utilizar o `VS Code`)
 3. Executar as células de código
 
-Obs. 1: As coordenadas da escola `42002079` estarão disponíveis no objeto `coordenadas` (penúltima célula de código).
-Obs. 2: Altere o código da escola na seção "Dados de entrada".
-Obs. 3: configure um ambiente virual previamente (`venv`, `poetry`, etc.).
-Obs. 4: adapte o código para iterar sobre uma lista de códigos de escolas.
+Observações:
+- As coordenadas da escola `42002079` estarão disponíveis no objeto `coordenadas` (penúltima célula de código).
+- Altere o código da escola na seção "Dados de entrada".
+- Configure um ambiente virual previamente (`venv`, `poetry`, etc.).
+- Adapte o código para iterar sobre uma lista de códigos de escolas.
